@@ -4,7 +4,7 @@
 
 [<img src="https://user-images.githubusercontent.com/5521110/194920952-ef488e70-9681-469b-8377-1f3a2ba96799.png">](https://www.rebabre.com/draculain.punjabi/)
 
-[Take a little look into the company's values, thoughts & theories (spirituality)](https://www.rebabre.com/immortalgurmat/index.php?title=Main_Page) 
+[Take a little look into the company's values, thoughts & theories (spirituality)](https://jujhar.github.io/immortalgurmat/) 
 
 ![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)
 
