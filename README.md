@@ -49,7 +49,8 @@ General topics[hide]
 [Feeling hungry (devour)](https://www.rebabre.com/100p-nutrition.html)
 v
 t
-e
+e<br />
+[Counter](https://jujhar.github.io/simple-persistent-counter/)
 
 
 ![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)
