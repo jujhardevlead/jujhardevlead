@@ -1,18 +1,21 @@
-![image](https://user-images.githubusercontent.com/5521110/194922204-c8992964-a214-4a68-8ba9-f83cfa5dae43.png)
-
 <img src="https://user-images.githubusercontent.com/5521110/197889853-09c60ee8-53c8-44e1-a18f-ca7671858d96.png" alt="Rebabre" width="50"/>
 
-[<img src="https://user-images.githubusercontent.com/5521110/194920952-ef488e70-9681-469b-8377-1f3a2ba96799.png">](https://www.rebabre.com/draculain.punjabi/)
+<a href="https://www.rebabre.com/draculain.punjabi/">
+<img src="https://user-images.githubusercontent.com/5521110/194920952-ef488e70-9681-469b-8377-1f3a2ba96799.png" alt="Rebabre" width="50"/>
+ </a>
 
 [Take a little look into the company's values, thoughts & theories (spirituality)](https://jujhar.github.io/immortalgurmat/) 
 
-![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)
+![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)
 
 
 ![image](https://user-images.githubusercontent.com/5521110/194922204-c8992964-a214-4a68-8ba9-f83cfa5dae43.png)
 
 [<img src="https://user-images.githubusercontent.com/5521110/197890409-d6885fc2-bf1d-478c-b8cc-59b35bb5c150.png" alt="Gurmat" width="50"/>](https://www.rebabre.com/immortalgurmat/index.php/Gurmat)
-[<img src="https://user-images.githubusercontent.com/5521110/194922507-3adc7b8e-64f2-4766-b1c2-fddf287fbf11.png">](https://www.rebabre.com/immortalgurmat/index.php/Amrit_Sanchar)
+
+<a href="[https://www.rebabre.com/draculain.punjabi/](https://www.rebabre.com/immortalgurmat/index.php/Amrit_Sanchar)">
+<img src="https://user-images.githubusercontent.com/5521110/194922507-3adc7b8e-64f2-4766-b1c2-fddf287fbf11.png" alt="Rebabre" width="50"/>
+ </a>
 
 Philosophy[hide]
 [Naam](https://www.rebabre.com/immortalgurmat/index.php/Naam)
@@ -49,5 +52,6 @@ t
 e
 
 
-![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)
+![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)
+
 
