@@ -4,7 +4,8 @@
 <img src="https://user-images.githubusercontent.com/5521110/194920952-ef488e70-9681-469b-8377-1f3a2ba96799.png" alt="Rebabre" width="50"/>
  </a>
 
-[Take a little look into the company's values, thoughts & theories (spirituality)](https://jujhar.github.io/immortalgurmat/) 
+["Dracula Singh" - A random punjabi introductary experience for people that dont really read Punjabi novels.](https://www.rebabre.com/draculain.punjabi/)<br />
+[Also: Take a little look into the company's values, thoughts & theories (spirituality)](https://jujhar.github.io/immortalgurmat/) 
 
 ![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)
 
@@ -37,7 +38,7 @@ v
 t
 e
 Merry
-Fun
+# Fun
 General topics[hide]
  
 [Art](http://www.jujharpannu.com/index.php) [Cool picture](http://jujharpannu.com/site/content/wltdo.php)
