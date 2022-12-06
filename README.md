@@ -12,7 +12,7 @@
 
 Philosophy[hide]
 [Naam](https://www.rebabre.com/immortalgurmat/index.php/Naam)
-[Sikh](https://www.rebabre.com/immortalgurmat/index.php/Sikh) [Waheguru](https://www.rebabre.com/immortalgurmat/index.php/Waheguru) [Gurbani](https://www.rebabre.com/immortalgurmat/index.php/Gurbani) [Gurdwara](https://www.rebabre.com/immortalgurmat/index.php/Gurdwara) (2015)
+[Sikh](https://www.rebabre.com/immortalgurmat/index.php/Sikh) [Waheguru](https://www.rebabre.com/immortalgurmat/index.php/Waheguru) [Gurbani](https://www.rebabre.com/immortalgurmat/index.php/Gurbani) [Gurdwara](https://www.rebabre.com/immortalgurmat/index.php/Gurdwara)
 
 Al topics
 Related topics[hide]
