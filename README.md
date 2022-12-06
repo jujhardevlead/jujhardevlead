@@ -12,7 +12,7 @@
 
 Philosophy[hide]
 [Naam](https://www.rebabre.com/immortalgurmat/index.php/Naam)
-[Sikh](https://www.rebabre.com/immortalgurmat/index.php/Sikh) [Waheguru](https://www.rebabre.com/immortalgurmat/index.php/Waheguru) [Gurbani](https://www.rebabre.com/immortalgurmat/index.php/Gurbani) [Gurdwara](https://www.rebabre.com/immortalgurmat/index.php/Gurdwara)
+[Sikh](https://www.rebabre.com/immortalgurmat/index.php/Sikh) [Waheguru](https://www.rebabre.com/immortalgurmat/index.php/Waheguru) [Gurbani](https://www.rebabre.com/immortalgurmat/index.php/Gurbani) [Gurdwara](https://www.rebabre.com/immortalgurmat/index.php/Gurdwara) (2019)
 
 Al topics
 Related topics[hide]
@@ -29,17 +29,20 @@ Sidak (steadfastness)
 
 # Merry
 
-["Dracula Singh" - An introductary experience for people that don't really read Punjabi novels.](https://www.rebabre.com/draculain.punjabi/)<br />
- 
-[Art](http://www.jujharpannu.com/index.php) [Cool picture](http://jujharpannu.com/site/content/wltdo.php)
-[Moods](https://www.rebabre.com/app/stars/) [1,2..108](https://www.rebabre.com/images/stars.gif)
+["Dracula Singh" - An introductary experience for people that don't really read Punjabi novels. (Oct 2022)](https://www.rebabre.com/draculain.punjabi/)<br />
 
-[Search tool](https://www.rebabre.com/search.html)
-[Speed reader](https://jujhar.github.io/-speeed-readaj/)
+[Website reader - interesting news, music, knowledge, books from around the world (Mar 2021)](https://www.rebabre.com/Bookmarks%20%C2%B7%20Liesure.html)<br />
 
-[Feeling hungry (devour)](https://www.rebabre.com/100p-nutrition.html)
+[Counter (Nov 2022)](https://jujhar.github.io/simple-persistent-counter/) <br />
+[Speed reader (Aug 2022)](https://jujhar.github.io/-speeed-readaj/)<br /><br />
+[Feeling hungry (devour) (Mar 2021)](https://www.rebabre.com/100p-nutrition.html)<br />
+[Moods (Sep 2020)](https://www.rebabre.com/app/stars/) [1,2..108](https://www.rebabre.com/images/stars.gif)<br /><br />
+[Search tool (Feb 2019)](https://www.rebabre.com/search.html)
 <br />
-[Counter](https://jujhar.github.io/simple-persistent-counter/)
+[Cool picture (Aug 2017)](http://jujharpannu.com/site/content/wltdo.php)
+<br /><br />
+[Art (2010-2012)](http://www.jujharpannu.com/index.php) <br />
+
 
 
 ![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)![alt text](https://raw.githubusercontent.com/Silbad/pixa/main/icons/bird.svg)
