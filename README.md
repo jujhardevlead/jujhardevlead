@@ -1,10 +1,11 @@
 <img src="https://user-images.githubusercontent.com/5521110/197889853-09c60ee8-53c8-44e1-a18f-ca7671858d96.png" alt="Rebabre" width="50"/>
 
-[📸 Portfolio](https://www.rebabre.com/💼)<br />
-[Also: Take a little look into the company's values, thoughts & theories (spirituality)](https://jujhar.github.io/immortalgurmat/) 
+I have an interest into photo essays, practical writing, and mapping data with charts, things relating to historical events and culture related stuff from around the world.
 
+[📸 Portfolio](https://www.rebabre.com/💼)<br />
 
 [<img src="https://user-images.githubusercontent.com/5521110/197890409-d6885fc2-bf1d-478c-b8cc-59b35bb5c150.png" alt="Gurmat" width="50"/>](https://www.rebabre.com/immortalgurmat/index.php/Gurmat)
+[Take a little look into the company's values, thoughts & theories (spirituality)](https://jujhar.github.io/immortalgurmat/) 
 
 <a href="[https://www.rebabre.com/draculain.punjabi/](https://www.rebabre.com/immortalgurmat/index.php/Amrit_Sanchar)">
 <img src="https://user-images.githubusercontent.com/5521110/194922507-3adc7b8e-64f2-4766-b1c2-fddf287fbf11.png" alt="Rebabre" width="50"/>
