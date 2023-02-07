@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/5521110/197889853-09c60ee8-53c8-44e1-a18f-ca7671858d96.png" alt="Rebabre" width="50"/>
 
-I have an interest into photo essays, practical writing, and mapping data with charts, things relating to historical events and culture related stuff from around the world.
+I have an interest into photo essays, any writing done pratically, mapping data with charts, things relating to historical events, and culture related stuff from around the world.
 
 [📸 Portfolio](https://www.rebabre.com/💼)<br />
 
