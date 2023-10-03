@@ -1,7 +1,6 @@
 
 ## Projects
 
-[26 - Suraj Prakash](https://rebabre.gitbook.io/suraj-prakash/) 10% done
 <br>
 [25 - Risk](https://github.com/Jujhar/Risk) 25% done 🍀
 <br>
