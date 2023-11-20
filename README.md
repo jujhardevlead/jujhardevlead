@@ -23,3 +23,7 @@ Others:
 [2 - Charta (2014)](https://www.rebabre.com/app/charta/)  ⚔
 [Art (2010-2012)](http://www.jujharpannu.com/index.php)
 <!--[16 - Website reader - interesting news, music, knowledge, books from around the world (Mar 2021)](https://www.rebabre.com/Bookmarks%20%C2%B7%20Liesure.html)  ⚔-->
+
+Articles:
+
+[1 - What is Evolutionary Development and Rapid Programming?](https://www.rebabre.com/docx/what-is-evolutionary-development-and-rapid-programming) Nov 19, 2023
