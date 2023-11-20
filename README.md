@@ -26,4 +26,4 @@ Others:
 
 Articles:
 
-[1 - What is Evolutionary Development and Rapid Programming?](https://www.rebabre.com/docx/what-is-evolutionary-development-and-rapid-programming) Nov 19, 2023
+[1 - What is Evolutionary Development and Rapid Programming?](https://www.rebabre.com/docx/what-is-evolutionary-development-and-rapid-programming.html) Nov 19, 2023
