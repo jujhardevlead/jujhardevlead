@@ -1,7 +1,7 @@
 
 ## Projects
 
-[25 - Risk](https://github.com/Jujhar/Risk) 25% done 🍀 <br>
+<br>
 [24 - Intro to Food (Blackholizan - Energies of Ze Soul) (March 2023)](https://rebabre.com/food-manual/)
 <br>
 [22 - Raga Solator (Dec 2022)](https://jujhar.github.io/ragamala/index.html)
