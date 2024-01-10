@@ -31,6 +31,8 @@
 
 ### Skills
 
+Fluent with concurrency, tombstones, reactive variables.
+
 <!--https://github.com/Aliwahid17/Aliwahid17/blob/main/README.md?plain=1-->
 <p align="left">
 
