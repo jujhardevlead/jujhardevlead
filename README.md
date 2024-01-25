@@ -53,5 +53,4 @@ PWA development, Adobe PhoneGap, multimedia editing, Flash/An, OpenGL ES, respon
 
 </p>
 
-![image](https://github.com/Jujhar/Jujhar/assets/5521110/2a02ed47-4730-453b-9e3f-ee1c5dcca177)
-
+![elepaint-](https://github.com/Jujhar/Jujhar/assets/5521110/3508d813-ecfd-42d9-907a-831e788148af)
