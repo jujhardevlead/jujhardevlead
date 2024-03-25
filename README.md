@@ -4,8 +4,6 @@
 
 [24 - Blackholizan - Energies of Ze Soul - (March 2023)](https://rebabre.com/food-manual/)
 <br>
-[22 - Raga Solator (Dec. 2022)](https://jujhar.github.io/ragamala/index.html)
-<br>
 [16 - Website Reader - interesting news, music, knowledge, books from around the world (March 2021)](https://www.rebabre.com/Bookmarks%20%C2%B7%20Liesure.html)
 <br>
 [&nbsp;&nbsp;8 - My Entire Photo Lib (Nov. 2017)](https://www.rebabre.com/app/my-entire-photo-lib-vid/)
@@ -30,16 +28,11 @@
 [1 - What is Evolutionary Development and Rapid Programming? (Nov. 2023)](https://www.rebabre.com/docx/what-is-evolutionary-development-and-rapid-programming.html)
 
 ### Skills
-
-Fluent with concurrency, reactive variables (Svelte), complex algorithms (reliable, available, accurate, efficient).
-
-Content Management Systems: WordPress, Drupal, Magento, Microsoft SharePoint. 
-
 Copywriting, creative writing, technical writing, Power BI, Excel, Google Adsense, Google AdWords, Web SEO. Photoshop expert, user-centered design, in-depth theories, Wiggle3D (photography). PWA development, Adobe PhoneGap, multimedia editing, Flash/An, OpenGL ES, responsive design.
 
 ⟐   Excellent mathematical, problem solving, and communication, creative, process oriented skills. 
 ⟐   Can professionally develop, modify, and debug programs to increase functionality, usability, elegance and efficiency. 
-⟐   Maintenance centric, agile, quality processes & documentation, low coupling & high cohesion, ORM, UML Normalization.  
+⟐   Maintenance centric, agile, quality processes & documentation, low coupling & high cohesion, ORM, UML Normalization, concurrency, reactive variables (Svelte), reliable, available, accurate, efficient alogorithms.
 
 <!--https://github.com/Aliwahid17/Aliwahid17/blob/main/README.md?plain=1-->
 <p align="left">
@@ -61,9 +54,12 @@ Copywriting, creative writing, technical writing, Power BI, Excel, Google Adsens
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353804/google-analytics.svg" width="36" height="36" alt="After Effects" /></a>
 
 
+Portfolio:
+https://www.rebabre.com/💼
+
   Code samples:
   https://www.codewars.com/users/Jujhar%20S./completed_solutions
 
 </p>
 
-![elepaint-](https://github.com/Jujhar/Jujhar/assets/5521110/3508d813-ecfd-42d9-907a-831e788148af)
+![image](https://github.com/Jujhar/Jujhar/assets/5521110/e4ca6c8e-25c6-4691-beb8-fa37141d34e0)
