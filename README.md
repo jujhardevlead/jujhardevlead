@@ -62,4 +62,12 @@ https://www.rebabre.com/💼
 
 </p>
 
+![asset-pai](https://github.com/user-attachments/assets/f25e8cf1-adf9-4928-a4f2-d282cf3db261)
+
+![neelam-by-jujharsingh - Copy (2) - Copy](https://github.com/user-attachments/assets/fc40cca0-926a-440b-9dbf-6bdb7f984541)
+
 ![image](https://github.com/Jujhar/Jujhar/assets/5521110/e4ca6c8e-25c6-4691-beb8-fa37141d34e0)
+
+![6d(2)](https://github.com/user-attachments/assets/d9fc1ed5-bf73-4221-8097-be9db9e1b55b)
+
+
