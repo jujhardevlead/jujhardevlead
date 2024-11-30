@@ -1,31 +1,5 @@
 
-## Projects
 
-
-[24 - Blackholizan - Energies of Ze Soul - (March 2023)](https://rebabre.com/food-manual/)
-<br>
-[16 - Website Reader - interesting news, music, knowledge, books from around the world (March 2021)](https://www.rebabre.com/Bookmarks%20%C2%B7%20Liesure.html)
-<br>
-[&nbsp;&nbsp;8 - My Entire Photo Lib (Nov. 2017)](https://www.rebabre.com/app/my-entire-photo-lib-vid/)
-<br>
-
-### Others
-
-[20 - "Draculain Punjabi" - An introductary experience for people that don't really read Punjabi novels. (Oct 2022)](https://www.rebabre.com/draculain.punjabi/)  ⚔
-[21 - Counter (Nov. 2022)](https://jujhar.github.io/simple-persistent-counter/)
-[19 - Speed reader (Aug. 2022)](https://jujhar.github.io/Reader/) ⚔
-[17 - Feeling hungry (nutrition) (Mar. 2021)](https://www.rebabre.com/100p-nutrition.html)  ⚔
-[15 - Moods (Sep 2020)](https://www.rebabre.com/app/stars/) [1,2..108](https://www.rebabre.com/images/stars.gif)  ⚔
-[13 - Search tool (Feb 2019)](https://www.rebabre.com/search.html)  ⚔
-[10 - Serene picture (Aug 2017)](http://jujharpannu.com/site/content/wltdo.php)  ⚔
-[2 - Charta (2014)](https://www.rebabre.com/app/charta/)  ⚔
-[Art (2010-2012)](http://www.jujharpannu.com/index.php)
-<!--[16 - Website reader - interesting news, music, knowledge, books from around the world (Mar 2021)](https://www.rebabre.com/Bookmarks%20%C2%B7%20Liesure.html)  ⚔-->
-
-
-### Articles
-
-[1 - What is Evolutionary Development and Rapid Programming? (Nov. 2023)](https://www.rebabre.com/docx/what-is-evolutionary-development-and-rapid-programming.html)
 
 ### Skills
 Copywriting, creative writing, technical writing, Power BI, Excel, Google Adsense, Google AdWords, Web SEO. Photoshop expert, user-centered design, in-depth theories, documetation, Wiggle3D (photography). Interactive documentation. PWA development, Adobe PhoneGap, multimedia editing, Flash/An, OpenGL ES, responsive design.
@@ -68,6 +42,35 @@ https://www.rebabre.com/💼
 
 ![image](https://github.com/Jujhar/Jujhar/assets/5521110/e4ca6c8e-25c6-4691-beb8-fa37141d34e0)
 
-![6d(2)](https://github.com/user-attachments/assets/d9fc1ed5-bf73-4221-8097-be9db9e1b55b)
+![image](https://github.com/user-attachments/assets/888bcc43-cf84-4af4-90e7-9d4bdb9a5308)
+
+
+### Projects
+
+
+[24 - Blackholizan - Energies of Ze Soul - (March 2023)](https://rebabre.com/food-manual/)
+<br>
+[16 - Website Reader - interesting news, music, knowledge, books from around the world (March 2021)](https://www.rebabre.com/Bookmarks%20%C2%B7%20Liesure.html)
+<br>
+[&nbsp;&nbsp;8 - My Entire Photo Lib (Nov. 2017)](https://www.rebabre.com/app/my-entire-photo-lib-vid/)
+<br>
+
+### Others
+
+[20 - "Draculain Punjabi" - An introductary experience for people that don't really read Punjabi novels. (Oct 2022)](https://www.rebabre.com/draculain.punjabi/)  ⚔
+[21 - Counter (Nov. 2022)](https://jujhar.github.io/simple-persistent-counter/)
+[19 - Speed reader (Aug. 2022)](https://jujhar.github.io/Reader/) ⚔
+[17 - Feeling hungry (nutrition) (Mar. 2021)](https://www.rebabre.com/100p-nutrition.html)  ⚔
+[15 - Moods (Sep 2020)](https://www.rebabre.com/app/stars/) [1,2..108](https://www.rebabre.com/images/stars.gif)  ⚔
+[13 - Search tool (Feb 2019)](https://www.rebabre.com/search.html)  ⚔
+[10 - Serene picture (Aug 2017)](http://jujharpannu.com/site/content/wltdo.php)  ⚔
+[2 - Charta (2014)](https://www.rebabre.com/app/charta/)  ⚔
+[Art (2010-2012)](http://www.jujharpannu.com/index.php)
+<!--[16 - Website reader - interesting news, music, knowledge, books from around the world (Mar 2021)](https://www.rebabre.com/Bookmarks%20%C2%B7%20Liesure.html)  ⚔-->
+
+
+### Articles
+
+[1 - What is Evolutionary Development and Rapid Programming? (Nov. 2023)](https://www.rebabre.com/docx/what-is-evolutionary-development-and-rapid-programming.html)
 
 
