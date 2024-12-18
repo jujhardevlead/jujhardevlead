@@ -43,9 +43,6 @@ https://www.rebabre.com/💼
 
 ![image](https://github.com/user-attachments/assets/d61e0bac-ca72-4c5b-8b96-cf7b58d7ad70)
 
-![image](https://github.com/user-attachments/assets/888bcc43-cf84-4af4-90e7-9d4bdb9a5308)
-
-![image](https://github.com/user-attachments/assets/cd8682fa-c887-46a8-9997-399e95544f8c)
 
 
 
