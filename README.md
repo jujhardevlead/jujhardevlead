@@ -1,13 +1,4 @@
 
-
-
-### Skills
-Copywriting, creative writing, technical writing, Power BI, Excel, Google Adsense, Google AdWords, Web SEO. Photoshop expert, user-centered design, in-depth theories, documetation, Wiggle3D (photography). Interactive documentation. PWA development, Adobe PhoneGap, multimedia editing, Flash/An, OpenGL ES, responsive design.
-
-⟐   Excellent mathematical, problem solving, and communication, creative, process oriented skills. 
-⟐   Can professionally develop, modify, and debug programs to increase functionality, usability, elegance and efficiency. 
-⟐   Bi-monthy, monthly maintenance / always maintenance centric, agile, quality processes & documentation, low coupling & high cohesion, ORM, UML Normalization, concurrency, reactive variables (Svelte), reliable, available, accurate, efficient alogorithms.
-
 <!--https://github.com/Aliwahid17/Aliwahid17/blob/main/README.md?plain=1-->
 <p align="left">
 
@@ -73,5 +64,12 @@ https://www.rebabre.com/💼
 ### Articles
 
 [1 - What is Evolutionary Development and Rapid Programming? (Nov. 2023)](https://www.rebabre.com/docx/what-is-evolutionary-development-and-rapid-programming.html)
+
+### Skills
+Copywriting, creative writing, technical writing, Power BI, Excel, Google Adsense, Google AdWords, Web SEO. Photoshop expert, user-centered design, in-depth theories, documetation, Wiggle3D (photography). Interactive documentation. PWA development, Adobe PhoneGap, multimedia editing, Flash/An, OpenGL ES, responsive design.
+
+⟐   Excellent mathematical, problem solving, and communication, creative, process oriented skills. 
+⟐   Can professionally develop, modify, and debug programs to increase functionality, usability, elegance and efficiency. 
+⟐   Bi-monthy, monthly maintenance / always maintenance centric, agile, quality processes & documentation, low coupling & high cohesion, ORM, UML Normalization, concurrency, reactive variables (Svelte), reliable, available, accurate, efficient alogorithms.
 
 
