@@ -1,8 +1,31 @@
 
+Email me for these task to your website for your React, PHP (symofony, laravel, wordpress, magento, drupal, zen cart, etc), Go, Rails, Python, ASP.NET or JavaScript languages
+
+- Reduce Page Speed to make Core Web Vitals,
+$50 / hr
+
+- Web SEO setup, includes Goolge Web Console and premium monitering,
+$50 / hr
+
+- Setup email coupon automated emails (15 different scenerios eg 10 days after laving cart full) on any ecommerce platform,
+$300
+
+- Graphic design, high quality colour correction, misc,
+  $30 / hr
+
+- Debugging, refractoring, ISO (IEEE Std. 2-1998) standard software testing 
+  $30 / hr
+
+
+![image](https://github.com/user-attachments/assets/2cb3c9d6-c1de-4bf3-a5b9-07baa4e18970)
+
+
 <!--https://github.com/Aliwahid17/Aliwahid17/blob/main/README.md?plain=1-->
 <p align="left">
 
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://a.storyblok.com/f/172506/1280x800/00901d9ffe/next-js-logo.webp" width="36" height="36" alt="Svelte" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/php.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
    <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="React" /></a>
@@ -17,6 +40,11 @@
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1024px-Power_bi_logo_black.svg.png?20181015101513" width="36" height="36" alt="After Effects" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353804/google-analytics.svg" width="36" height="36" alt="After Effects" /></a>
 
+jujhar.singh @ protonmail.ch
+
+5l6 693 2264 - Text
+
+604 324 32l3 - Home
 
 Portfolio:
 https://www.rebabre.com/💼
@@ -39,7 +67,8 @@ https://www.rebabre.com/💼
 
 ### Projects
 
-
+[A+ - Risk](https://jujhar.github.io/Risk/)
+<br>
 [24 - Blackholizan - Energies of Ze Soul - (March 2023)](https://rebabre.com/food-manual/)
 <br>
 [16 - Website Reader - interesting news, music, knowledge, books from around the world (March 2021)](https://www.rebabre.com/Bookmarks%20%C2%B7%20Liesure.html)
