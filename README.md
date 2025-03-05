@@ -1,23 +1,25 @@
 
-Email me for these task to your website for your React, PHP (symofony, laravel, wordpress, magento, drupal, zen cart, etc), Go, Rails, Python, ASP.NET or JavaScript languages
+Email me for React, PHP (symofony, laravel, wordpress, magento, drupal, zen cart, etc)
 
-- Reduce Page Speed to make Core Web Vitals,
-$50 / hr
+- Debugging, refractoring, ISO (IEEE Std. 2-1998) standard software management, database tuning, production grade application scaffolding  
+  $30 / hr
 
-- Web SEO setup, includes Goolge Web Console and premium monitering,
-$50 / hr
+- Web SEO setup, includes Goolge Web Console and internet harvesting premium monitering, or TDD application migration / updates / porting
+$30 / hr
 
-- Setup email coupon automated emails (15 different scenerios eg 10 days after laving cart full) on any ecommerce platform,
+- Payment gateways, CRM automaions and integrations, setup email coupon automated emails (15 different scenerios eg 10 days after laving cart full) on any ecommerce platform,
 $300
 
-- Graphic design, high quality colour correction, misc,
+- Graphic design, high quality colour correction, patching, SVG illustation, etc.
   $30 / hr
 
-- Debugging, refractoring, ISO (IEEE Std. 2-1998) standard software testing 
+- Reduce Page Speed to make Core Web Vitals (90-100%),
   $30 / hr
 
 
-![image](https://github.com/user-attachments/assets/2cb3c9d6-c1de-4bf3-a5b9-07baa4e18970)
+
+
+
 
 
 <!--https://github.com/Aliwahid17/Aliwahid17/blob/main/README.md?plain=1-->
@@ -32,6 +34,7 @@ $300
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="After Effects" />
   <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/5/53/Magento.svg" width="36" height="36" alt="After Effects" /></a>
+  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://neonxp.gallerycdn.vsassets.io/extensions/neonxp/gotools/0.1.5/1691451648679/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="After Effects" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/1024px-Adobe_Animate_CC_icon_%282020%29.svg.png" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
@@ -54,13 +57,27 @@ https://www.rebabre.com/💼
 
 </p>
 
-![asset-pai](https://github.com/user-attachments/assets/f25e8cf1-adf9-4928-a4f2-d282cf3db261)
+<a href="https://jujharpannu.rebabre.com/index.php"><img src="https://github.com/user-attachments/assets/f25e8cf1-adf9-4928-a4f2-d282cf3db261" /></a>
 
 ![neelam-by-jujharsingh - Copy (2) - Copy](https://github.com/user-attachments/assets/fc40cca0-926a-440b-9dbf-6bdb7f984541)
 
-![image](https://github.com/Jujhar/Jujhar/assets/5521110/e4ca6c8e-25c6-4691-beb8-fa37141d34e0)
 
+
+![image](https://github.com/user-attachments/assets/fdf37b62-dd64-4e6e-8481-2294c9d16c52)
+
+
+![image](https://github.com/Jujhar/Jujhar/assets/5521110/e4ca6c8e-25c6-4691-beb8-fa37141d34e0)
 ![image](https://github.com/user-attachments/assets/d61e0bac-ca72-4c5b-8b96-cf7b58d7ad70)
+
+<!--
+![image](https://github.com/user-attachments/assets/2cb3c9d6-c1de-4bf3-a5b9-07baa4e18970)
+
+![image](https://github.com/user-attachments/assets/5baa9a38-e80e-48d8-a016-0c09026ba51a)
+
+![image](https://github.com/user-attachments/assets/024ae464-e487-4a3f-b13d-87ca17a4b6fd)
+-->
+
+
 
 
 
