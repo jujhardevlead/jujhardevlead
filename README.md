@@ -82,7 +82,7 @@ https://www.rebabre.com/samples -> https://www.rebabre.com/💼
 
 [A+ - Risk](https://jujhar.github.io/Risk/)
 
-<img src="https://rebabre.com/samples/risk.png" width="36" height="36" alt="After Effects" />
+<img src="https://rebabre.com/samples/risk.png" width="178" height="175" alt="After Effects" />
 
 <br>
 [24 - Blackholizan - Energies of Ze Soul - (March 2023)](https://rebabre.com/food-manual/)
