@@ -4,20 +4,20 @@
 
 
 
-- Debugging, refractoring, ISO (IEEE Std. 2-1998) standard software management, database tuning, production grade application scaffolding  
-  $30 / hr
+- Database tuning, debugging, refractoring, (Application logic) standard software management, production grade application scaffolding  
+  $450 / hr
 
 - Web SEO setup, includes Goolge Web Console and internet harvesting premium monitering, or TDD application migration / updates / porting
-$30 / hr
+  $405 / hr
 
 - Payment gateways, CRM automaions and integrations, setup email coupon automated emails (15 different scenerios eg 10 days after laving cart full) on any ecommerce platform,
-$300
+  $405
 
-- Graphic design, high quality colour correction, patching, SVG illustation, etc.
-  $30 / hr
+- Graphic design, high quality colour correction, patching, SVG illustation, etc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  $38 / hr (depending on intent)
 
 - Reduce Page Speed to make Core Web Vitals (90-100%),
-  $30 / hr
+  $405 / hr
 
 
 
