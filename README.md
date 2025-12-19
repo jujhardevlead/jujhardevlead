@@ -5,19 +5,14 @@
 
 
 - Database tuning, debugging, refractoring, (Application logic) standard software management, production grade application scaffolding  
-  $450 / hr
 
 - Web SEO setup, includes Goolge Web Console and internet harvesting premium monitering, or TDD application migration / updates / porting
-  $405 / hr
 
 - Payment gateways, CRM automaions and integrations, setup email coupon automated emails (15 different scenerios eg 10 days after laving cart full) on any ecommerce platform,
-  $405
 
 - Graphic design, high quality colour correction, patching, SVG illustation, etc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  $38 / hr (depending on intent)
 
 - Reduce Page Speed to make Core Web Vitals (90-100%),
-  $405 / hr
 
 
 
@@ -50,7 +45,7 @@
 
 jujhar.singh @ protonmail.ch
 
-5l6 693 2264 - Text
+rate - $31 an hour
 
 604 324 32l3 - Home
 
@@ -67,7 +62,7 @@ https://www.rebabre.com/samples -> https://www.rebabre.com/💼
 
 </p>
 
-<a href="https://jujharpannu.rebabre.com/index.php"><img src="https://github.com/user-attachments/assets/f25e8cf1-adf9-4928-a4f2-d282cf3db261" /></a>
+<a href="https://jujharpannu.rebabre.com/index.php"><img src="https://github.com/user-attachments/assets/f25e8cf1-adf9-4928-a4f2-d282cf3db261" /></a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 
 ![neelam-by-jujharsingh - Copy (2) - Copy](https://github.com/user-attachments/assets/fc40cca0-926a-440b-9dbf-6bdb7f984541)
 
